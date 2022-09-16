@@ -3,9 +3,8 @@
 
 This document will give you everything you need to know about designing your own combat robot for the Watson Combat Robotics League!
 
-
+---
 ## Conceptual Design
-
 The best way to get ideas for your design if you are new to the concept of combat robotics is to draw inspiration from bots that already exist. Some important things to look for when watching videos are:
 
 - The type of bot (Spinner, flipper, etc)
@@ -29,13 +28,12 @@ Here are some links to get you started:
 - [3D Power Prints](https://www.youtube.com/channel/UCgO0GEN4iXCauXte8O-5n2w)
 - [Maker's Muse](https://youtu.be/YWOqAwXmvJU)
 
+---
 ## CAD Design and Part Ordering
-
 Now that you have a conceptual design, you are ready to start designing your bot in CAD (Computer Aided Design)! Just kidding, you’re not quite there yet. You first need to know what is going inside your bot!
 
 ### Electronics
 #### Microcontroller (Brain of the Bot)
-
 The microcontroller is responsible for sending commands to other components of your robot, (i.e. telling the wheels to spin). Some possible options include:
 Arduino
 
@@ -46,17 +44,14 @@ Arduino
 - Raspberry Pi
 
 #### Bluetooth Transceiver (Communicate with the Bot)
-
 There are many different models of transceiver for this project, however we recommend the [HM-10](https://www.amazon.com/dp/B06WGZB2N4/?coliid=I2803XF5QJ56I&colid=2HZ7F15TNBDGH&psc=1&ref_=lv_ov_lig_dp_it) for this competition as you can use your phone to control the bot via bluetooth. We also recommend using the [Dabble](https://www.arduino.cc/reference/en/libraries/dabble/) phone application for ease of control.
 
 You can use a variety of different transceivers for either remote or bluetooth control, but make sure you select one with good documentation. Our executive team solely uses HM-10’s, so if you think you may need assistance, we recommend selecting that one as well.
 
 #### Controllers (Control the Bot)
-
 Controllers can be as simple as configuring the Dabble app to control motors via your smartphone, or as complicated as designing your own PCB – it is completely up to you and your team!
 
 ##### Physical controller requirements/suggestions
-
 - Microcontroller
 - Bluetooth module
 - Joysticks
@@ -81,7 +76,6 @@ Controllers can be as simple as configuring the Dabble app to control motors via
 These are only some examples – do some research and find all the cool motors you can use!
 
 #### Battery (Power the Bot)
-
 It is recommended that each team use the [WCRL provided battery](https://www.amazon.com/Zeee-Graphene-Quadcopter-Helicopter-Airplane/dp/B07Y67CHJT/ref=sr_1_17?crid=18U94VR4VHA16&keywords=3s%2Blipo%2Bbattery&qid=1580166046&sprefix=3s%2B%2Caps%2C159&sr=8-17&th=1)
 A team may use their own battery if:
 
@@ -91,13 +85,14 @@ A team may use their own battery if:
 - The Battery comes with a charger
 - A power switch must cut off power directly from the battery
 
+---
 ## Hardware
-
 There are also many miscellaneous parts that are required to build a robot, such as heat-shrink and screws. Please refer to the Build-the-bot BOM for more information.
+
+---
 
 ## CAD Designs
 ### CAD Software
-
 Now that you know what is going in the bot, you can officially start designing it in CAD. This guide is not going to dive into the intricacies of different CAD softwares or the merits of one CAD software over another. That being said, there are several CAD softwares that you can use:
 
 - Fusion 360 – Recommended by WCRL due to ease of use and student plan
