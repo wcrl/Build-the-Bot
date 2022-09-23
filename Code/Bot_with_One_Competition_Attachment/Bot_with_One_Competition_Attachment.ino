@@ -10,8 +10,8 @@
    However, a modification must be made to the library to allow for hardware serial instead of software serial.
 
    1. Download the Dabble library via the Arduino IDE
-   1. Open the Dabble.cpp file and change "Serial#.begin" to "Serial.begin"
-   2. In the same .cpp file change "DabbleSerial=&Serial#" to "DabbleSerial=&Serial"
+   1. Open the Dabble.cpp file and change "Serial<#>.begin" to "Serial.begin"
+   2. In the same .cpp file change "DabbleSerial=&Serial<#>" to "DabbleSerial=&Serial"
 
 */
 
@@ -20,10 +20,12 @@ Servo ESC;          // Create servo object to control the ESC
 
 #include <SparkFun_TB6612.h> // Motor Driver Library provided by Sparkfun
 
+//Left Wheel is Motor A on the PCB
 #define L_Wheel_in1 A5  //A4
 #define L_Wheel_in2 A4  //A5
 #define L_Wheel_PWM 11  //D11
 
+//Left Wheel is Motor B on the PCB
 #define R_Wheel_in1 4   //D4
 #define R_Wheel_in2 8   //D8
 #define R_Wheel_PWM 10  //D10
@@ -40,8 +42,8 @@ Motor R_Wheel(R_Wheel_in1, R_Wheel_in2, R_Wheel_PWM, motor_offset, STBY);
 void setup() {
 
   Serial.begin(250000);       // make sure your Serial Monitor is also set at this baud rate.
-  Dabble.begin(9600, 0, 1);   //(Baudrate, rx,tx) Enter baudrate of your bluetooth. Connect bluetooth on Bluetooth port present on evive.
-  ESC.attach(5, 1000, 2000);  // Initializes the ESC  ---- 6 = B 5 = A
+  Dabble.begin(9600, 0, 1);   //(Baudrate, rx,tx) Enter baudrate of your bluetooth. Connect bluetooth on Bluetooth port present on evive (in Dabble Library Example).
+  ESC.attach(5, 1000, 2000);  // Initializes the ESC  ---- Pin 5 = ESC A; Pin 6 = ESC B 
   ESC.write(0);               // Sets the speed to 0
 }
 
