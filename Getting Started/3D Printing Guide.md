@@ -131,3 +131,10 @@ Cost at ETS (PLA or PETG): 4.75 BUC$
 
 Material Used: 89.17 grams
 Cost at ETS (PLA or PETG): 2.23 BUC$
+
+##### Vase:
+<img width="317" alt="Vase(88 24g)" src="https://user-images.githubusercontent.com/113567684/191880903-2ee40e31-a952-4763-a718-01fd82a1c259.png">
+
+
+Material Used: 88.24 grams
+Cost at ETS (PLA or PETG): 2.21 BUC$
