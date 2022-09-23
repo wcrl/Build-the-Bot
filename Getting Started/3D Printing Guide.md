@@ -119,14 +119,22 @@ ABS is one of the most commonly used plastics for injection molding. It is more 
 ## Pricing
 Cost of printing at Binghamton University ETS (Emerging Technology Center) is determined by the amount of material used. This includes support material in addition to your object if needed. For PLA and PETG the price of printing is 0.025 BUC$ (Note: BUC$ are different from meal plans). For reference the following 3d objects and prices are shown:
 
-##### Baby Groot: 
-![baby-groot-from-guardians-of-galaxy-3d-model-stl](https://user-images.githubusercontent.com/113567684/191162719-b7f1437c-f27f-425b-be54-228ca05ab498.jpg)
-
-Material Used: 61 grams
-Cost at ETS (PLA): 1.53 BUC$
-
 ##### DemoBot:
 <img width="419" alt="DemoBotJR" src="https://user-images.githubusercontent.com/113567684/191163658-2cde4d5b-8658-46b0-99e1-2d95b94781e1.png">
 
 Material Used: 191 grams
-Cost at ETS (PLA): 4.75 BUC$
+Cost at ETS (PLA or PETG): 4.75 BUC$
+
+##### Stump: 
+<img width="308" alt="Stump(89 17g)" src="https://user-images.githubusercontent.com/113567684/191872950-0f95c600-7cb4-4eab-9b45-1eb8a07bfc9f.png">
+
+
+Material Used: 89.17 grams
+Cost at ETS (PLA or PETG): 2.23 BUC$
+
+##### Vase:
+<img width="317" alt="Vase(88 24g)" src="https://user-images.githubusercontent.com/113567684/191880903-2ee40e31-a952-4763-a718-01fd82a1c259.png">
+
+
+Material Used: 88.24 grams
+Cost at ETS (PLA or PETG): 2.21 BUC$
