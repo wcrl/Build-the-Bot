@@ -125,6 +125,12 @@ ABS is one of the most commonly used plastics for injection molding. It is more 
 
 (Note: ETS is not typically printing with ABS currently. Email ETS with any questions)
 
+---
+
+# Binghamton University Emerging Technology Studio
+
+The Binghamton University Emerging Technology Studio (ETS) is a Binghamton University student resource available to all students.
+
 ## Pricing
 Cost of printing at Binghamton University ETS (Emerging Technology Center) is determined by the amount of material used. This includes support material in addition to your object if needed. For PLA and PETG the price of printing is 0.025 BUC$ (Note: BUC$ are different from meal plans). For reference the following 3d objects and prices are shown:
 
