@@ -43,6 +43,13 @@ Some useful Fusion360 Resources:
 
 We recommend following tutorials prior to attempting to design a part. This will allow you to familiarize yourself with the interface, and will make designing your part considerably easier.
 
+## Printspace
+
+Every 3D printer has a limitation of the size of the objects it can print. The range of each of the three axes determine what is known as the prinspace, or print volume. This means that any single body must fit in that printspace in order to be printed on that machine. Examples of common 3D printers and their printspaces include:
+
+* Prusa i3 MK3S: (25x21x21) cm or (9.84x8.3x8.3) in
+* Prusa Mini: (18x18x18) cm or (7x7x7) in
+
 ## Overhangs
 
 ## Bridging
