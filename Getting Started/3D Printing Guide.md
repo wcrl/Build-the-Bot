@@ -43,6 +43,13 @@ Some useful Fusion360 Resources:
 
 We recommend following tutorials prior to attempting to design a part. This will allow you to familiarize yourself with the interface, and will make designing your part considerably easier.
 
+## Printspace
+
+Every 3D printer has a limitation of the size of the objects it can print. The range of each of the three axes determine what is known as the prinspace, or print volume. This means that any single body must fit in that printspace in order to be printed on that machine. Examples of common 3D printers and their printspaces include:
+
+* Prusa i3 MK3S: (25x21x21) cm or (9.84x8.3x8.3) in
+* Prusa Mini: (18x18x18) cm or (7x7x7) in
+
 ## Overhangs
 
 ## Bridging
@@ -116,6 +123,10 @@ TPU is another common type of 3D printing filament. TPU is much more rubbery tha
 ## ABS
 ABS is one of the most commonly used plastics for injection molding. It is more rigid than PETG, but slightly less rigid than PLA. It can be difficult to print, but when done correctly it’s impact resistance is also quite high.
 
+(Note: ETS is not typically printing with ABS currently. Email ETS with any questions)
+
+---
+
 ## Pricing
 Cost of printing at Binghamton University ETS (Emerging Technology Center) is determined by the amount of material used. This includes support material in addition to your object if needed. For PLA and PETG the price of printing is 0.025 BUC$ (Note: BUC$ are different from meal plans). For reference the following 3d objects and prices are shown:
 
@@ -134,6 +145,19 @@ Cost at ETS (PLA or PETG): 2.23 BUC$
 
 ##### Vase:
 <img width="317" alt="Vase(88 24g)" src="https://user-images.githubusercontent.com/113567684/191880903-2ee40e31-a952-4763-a718-01fd82a1c259.png">
+
+---
+
+# Binghamton University Emerging Technology Studio
+
+The [Binghamton University Emerging Technology Studio](https://www.binghamton.edu/its/about/organization/technology-support-services/innovation/ets/index.html) (ETS) is a makerspace available to all students. They are an excellent 3D printing resource for any questions for Binghamton University Students. 
+
+General hours are:
+- Mon-Thurs 10-6
+- Fri 10-5
+- Closed Weekends
+
+Contact ETS for 3D printing help at ETSBing@binghamton.edu
 
 
 Material Used: 88.24 grams
