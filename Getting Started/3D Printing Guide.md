@@ -146,6 +146,9 @@ Cost at ETS (PLA or PETG): 2.23 BUC$
 ##### Vase:
 <img width="317" alt="Vase(88 24g)" src="https://user-images.githubusercontent.com/113567684/191880903-2ee40e31-a952-4763-a718-01fd82a1c259.png">
 
+Material Used: 88.24 grans
+Cost at ETS (PLA or PETG): 2.21 BUC$
+
 ---
 
 # Binghamton University Emerging Technology Studio
@@ -153,12 +156,8 @@ Cost at ETS (PLA or PETG): 2.23 BUC$
 The [Binghamton University Emerging Technology Studio](https://www.binghamton.edu/its/about/organization/technology-support-services/innovation/ets/index.html) (ETS) is a makerspace available to all students. They are an excellent 3D printing resource for any questions for Binghamton University Students. 
 
 General hours are:
-- Mon-Thurs 10-6
-- Fri 10-5
+- Mon-Thurs 10:00-6:00
+- Fri 10:00-5:00
 - Closed Weekends
 
 Contact ETS for 3D printing help at ETSBing@binghamton.edu
-
-
-Material Used: 88.24 grams
-Cost at ETS (PLA or PETG): 2.21 BUC$
