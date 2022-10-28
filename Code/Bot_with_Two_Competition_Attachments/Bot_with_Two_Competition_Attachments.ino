@@ -43,7 +43,7 @@ void setup() {
 
   Serial.begin(250000);       // make sure your Serial Monitor is also set at this baud rate.
   Dabble.begin(9600, 0, 1);   //(Baudrate, rx,tx) Enter baudrate of your bluetooth. Connect bluetooth on Bluetooth port present on evive (in Dabble Library Example).
-  ESC1.attach(5, 1000, 2000);  // D4 
+  ESC1.attach(5, 1000, 2000);  // D5 
   ESC1.write(0);               // Sets the speed to 0
   ESC2.attach(6,1000,2000);     // D6
   ESC2.write(0);               // Sets speed to 0
