@@ -1,7 +1,7 @@
 /*
     This example code was authored and/or compiled by the Watson Combat Robotics League for use on the Build-The-Bot Platform.
     This code is open source as per the MIT license found on the WCRL Github Page (https://github.com/wcrl/Build-the-Bot/blob/eadc81d94e1f041c1e13751ea7d3190f495dc393/LICENSE)
-    Last Revised: 2022-09-23
+    Last Revised: 2022-10-18
 */
 
 #include <Dabble.h>
@@ -12,6 +12,7 @@
    1. Download the Dabble library via the Arduino IDE
    1. Open the Dabble.cpp file and change "Serial<#>.begin" to "Serial.begin"
    2. In the same .cpp file change "DabbleSerial=&Serial<#>" to "DabbleSerial=&Serial"
+   3. NOTE: When Dabble bluetooth connection active code cannot upload to arduino unit
 
 */
 
@@ -77,12 +78,12 @@ void loop() {
   //Competition Attachment (Weapon) Control
   if (GamePad.isTrianglePressed())  //Start up the Competition attachment
   {
-    ESC.write(25);
+    ESC.write(35);
     Serial.print("Triangle");
   }
   if (GamePad.isCirclePressed())  //Increase the speed of the competition attachment
   {
-    ESC.write(50);
+    ESC.write(60);
     Serial.print("Circle");
   }
   if (GamePad.isCrossPressed()) //Shut off the competition attachment
