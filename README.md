@@ -8,7 +8,6 @@ If you have any questions, please contact us via our discord, or email WCRL@bing
 Happy Building!
 
 # Future Development Plans 
-- Code for two Competition Attachments 
 - Support for Raspberry Pi Picos
 - PCB for HM-10 reprogramming
 - PCB for Battery Cutoff
