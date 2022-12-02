@@ -22,6 +22,14 @@ http://www.wch-ic.com/downloads/CH341SER_ZIP.html
 
 ---
 
+## HM10 Bluetooth Device
+
+### Renaming Device
+
+A WCRL custom PCB is in developement for easy renaming of the HM10 unit.
+
+---
+
 ## Sparkfun TB6612 Motor Driver 
 
 ### Have the proper drivers
@@ -37,9 +45,3 @@ For more information about the TB6612 drivers, check out sparkfun’s website.
 https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide?_ga=2.77316117.1687938213.1637867360-170652134.1635896834
 
 ---
-
-## HM10 Bluetooth Device
-
-### Renaming Device
-
-A WCRL custom PCB is in developement for easy renaming of the HM10 unit.
