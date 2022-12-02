@@ -38,4 +38,8 @@ https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide?_ga=2.77316117.16879
 
 ---
 
+## HM10 Bluetooth Device
 
+### Renaming Device
+
+A WCRL custom PCB is in developement for easy renaming of the HM10 unit.
