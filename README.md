@@ -16,6 +16,5 @@ Happy Building!
 
 # Future Development Plans 
 - Support for Raspberry Pi Picos
-- PCB for HM-10 reprogramming
 - PCB for Battery Cutoff
 
