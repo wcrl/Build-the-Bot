@@ -134,7 +134,7 @@ There will be three awards presented at the Tournaments, effectively serving as 
     - Note: The arena is 1.83m x 1.83m x 0.28m, so keep this in mind for bot design (More on this in section 6.1).
 - Each bot shall be entirely 3D printed with an approved 3D Printing material, outlined below:
   - Permissible 3D printing materials include: ABS, PLA (and PLA variants), PETG, Resin, and TPU. Filaments not listed must be approved by the Executive Board.
-- The following items are exceptions to the 3D printed requirement: motors, wheels, electronics, axles, fasteners, rubber bands, belts, adhesives
+- The following items are exceptions to the 3D printed requirement: motors, wheels, electronics, axles, bearings, pins, fasteners, rubber bands, belts, adhesives
   - These items must be used in their intended fashion and can not be used to armor the bot
 - Flex seal, duct tape, or similar products, are not allowed on the bot.
   - Paint may be allowed on the bot for the purpose of decoration only. Any paint or other coating that adds structural integrity is prohibited.
