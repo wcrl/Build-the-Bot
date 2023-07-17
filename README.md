@@ -1,3 +1,6 @@
+# About WCRL
+Our mission at the Watson Combat Robotics League is to empower collegiate students to develop technical engineering skills through competitive combat robotics. We aim to foster a community of innovation and creativity for students and enthusiasts by providing a platform for designing, building, and testing 3D printed robots in a safe and exciting environment. Our focus is on promoting STEM education by providing an opportunity for practical experience in mechanical design, electrical engineering, and programming as well as peer guidance and resources to make participation increasingly accessible. Through our league, we strive to cultivate the next generation of skilled engineers and innovators who will shape the future of technology and robotics.
+
 # Build-the-Bot
 Welcome to the Build-the-Bot platform! Build-the-Bot is an open-source Arduino based robotics platform maintained by the Watson Combat Robotics League at Binghamton University!
 
