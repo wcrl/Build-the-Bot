@@ -72,7 +72,7 @@ Official bot name, team name, and attachment file names must be school-appropria
 
 ## League Overview
 
-The league refers to the entire 2022-2023 competition season. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
+The league refers to the entire 2023-2024 competition season. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
 
 ### Matches
 
