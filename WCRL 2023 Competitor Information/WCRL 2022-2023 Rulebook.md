@@ -42,7 +42,7 @@ The following rules have been constructed to be as unrestrictive to the design p
 - Chairperson: [John Pforte](jpforte1@binghamton.edu)
 - Vice-Chairperson: [Luke Riddoch](lriddoc1@binghamton.edu)
 - Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Daniel Bondar](dbondar2@binghamton.edu) | [Becca Carpenter](rcarpen6@binghamton.edu) | [Diane Gavrylyuk](dgavryl1@binghamton.edu) | [Kirill Kobyakov](kkobyak2@binghamton.edu) | [Edward Nunez](enunez10@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu)
-- Competition Coordinator: [Ryan Calhoun](rcalhou1@binghamton.edu) | [Lauren Frye](lfrye1@binghamton.edu) | [Haiden Danto-Scanlan](hdantos1@binghamton.edu) | [David Stein](dstein8@binghamton.edu)
+- Competition Coordinators: [Ryan Calhoun](rcalhou1@binghamton.edu) | [Lauren Frye](lfrye1@binghamton.edu) | [Haiden Danto-Scanlan](hdantos1@binghamton.edu) | [David Stein](dstein8@binghamton.edu)
 - First-Year Ambassadors: TBD
 - Faculty Advisor: [Professor Wenfeng Zhao](wzhao@binghamton.edu)
 
