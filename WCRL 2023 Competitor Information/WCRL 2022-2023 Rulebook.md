@@ -30,21 +30,19 @@ The following rules have been constructed to be as unrestrictive to the design p
 - **Executive Board:** The governing body of the Watson Combat Robotics League, listed in section 4.1.
 - **Inspection Checklist:** A document provided to teams prior to the tournament and/or any subsequent tournaments that outlines the most common rule violations to help ensure bots are in compliance with the rules contained herein.
 - **Inspection Period:** A portion of the tournament, and/or any subsequent tournaments, in which bots are weighed, measured, and are otherwise verified to abide by these rules. Any bots who do not pass inspection by the end of the inspection period are **not** eligible to demonstrate/compete on that day.  
-  - **Note: WCRL Executive Board Officers will be holding office hours weekly leading up to the competition and can inspect bots to ensure rule compliance upon team request.**
+  - **Note: WCRL Executive Board Officers will be holding open lab hours weekly leading up to the competition and can inspect bots to ensure rule compliance upon team request.**
 - **Judging Panel:** The judges of the tournament. These judges will determine the winner of individual matches, and decide two of the three awards, as indicated in section 3.3.
-- **League:** The league refers to the entire 2022-2023 competition season
+- **League:** The league refers to the entire 2023-2024 competition season
 - **Power Switch:** Mechanically and directly shuts off power to the entire bot as explained in section 5.8.
 - **Tournament:** A larger competition hosted by the WCRL one weekend per semester.**
 - **BOM:** Bill of materials, a complete list of all component parts on the bot including specifications, number of items, and prices.
 
 ### Executive Board
 
-- Chairperson: [Daniel Iacobacci](diacoba1@binghamton.edu)
-- Vice-Chairperson: [Dillon Kane](dkane3@binghamton.edu)
+- Chairperson: [John Pforte](jpforte1@binghamton.edu)
+- Vice-Chairperson: [Luke Riddoch](lriddoc1@binghamton.edu)
 - Build Technicians: [John Pforte](jpforte1@binghamton.edu) | [Ryan Calhoun](rcalhou1@binghamton.edu) | [Zack Schwid](zschwid1@binghamton.edu) | [Nathaniel Sehati](nsehati1@binghamton.edu) | [Luke Riddoch](lriddoc1@binghamton.edu)
 - Competition Coordinator: [Sophie Jaeger](sjaeger1@binghamton.edu)
-- Tournament Coordinator: _Vacant_
-- Public Relations Coordinator: [Tom Eaton](teaton1@binghamton.edu)
 - First-Year Ambassadors: [Edward Nunez](enunez10@binghamton.edu) | [Benjamin Sharples](bsharpl1@binghamton.edu)
 - Faculty Advisor: [Professor Wenfeng Zhao](wzhao@binghamton.edu)
 
