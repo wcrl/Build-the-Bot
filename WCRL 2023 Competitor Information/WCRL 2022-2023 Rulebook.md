@@ -1,6 +1,6 @@
 # Watson Combat Robotics League Fall 2023 Rulebook
 
-## Version 3.0 | Revised 2023-01-01
+## Version 4.0 | Revised 2023-08-05
 
 ## Overview
 
