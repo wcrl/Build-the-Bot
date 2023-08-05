@@ -129,7 +129,7 @@ There will be three awards presented at the Tournaments, effectively serving as 
   - Suggested maximum height is 25 cm.
   - Bots can be weighed on scales made available by the WCRL Executive Board
   - There are no other size restrictions on bots.
-    - Note: The arena is 1.83m x 1.83m x 0.28m, so keep this in mind for bot design (More on this in section 6.1).
+    - Note: The arena is 1.83m x 1.83m x 0.91m (6ft x 6ft x 3ft), so keep this in mind for bot design (More on this in section 6.1).
 - Each bot shall be entirely 3D printed with an approved 3D Printing material, outlined below:
   - Permissible 3D printing materials include: ABS, PLA (and PLA variants), PETG, Resin, and TPU. Filaments not listed must be approved by the Executive Board.
 - The following items are exceptions to the 3D printed requirement: motors, wheels, electronics, axles, bearings, pins, fasteners, rubber bands, belts, adhesives
@@ -199,7 +199,7 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 
 ### Arena
 
-- The arena is 1.83m x 1.83m x 0.28m
+- The arena is 1.83m x 1.83m x 0.91m (6ft x 6ft x 3ft)
 - Note: The floor of the arena is subject to change, and may not be perfectly flat. Testing is recommended prior to the competition to ensure your bot can traverse the arena successfully.
 - Once the bot is placed inside the arena, there shall be no further physical interaction with the bot by team members.
 - The arena may have additional active and passive field elements to contend with.
