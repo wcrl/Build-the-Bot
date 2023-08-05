@@ -258,7 +258,7 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 - Each team is limited to a budget cap of $125.
   - 3D printed parts will not be counted towards the budget due to the necessity of spares for multiple matches.
   - The $125 refers to parts on the bot at any given time. Spare parts are not included in the budget cap.
-  - This maximum budget for bots includes all control systems, unless you are using a mobile device (cell phone, tablet) for controlling your bot. In which case, the device itself does not count in the budget.
+  - This maximum budget for bots includes all control systems, unless you are using a mobile device (cell phone, tablet) for controlling your bot or you have built the controller yourself. In which case, the device itself does not count in the budget.
 - Donated or salvaged items must be recorded in the budget as costing an equivalent price to the same part online, sold and shipped by Amazon or Alibaba.
   - If there is any confusion on pricing, the final ruling will be made by the Executive Board.
 - WCRL Partners (I.E., Watson student groups) can sponsor their respective teams with any amount of funding. However, each team is still subject to the budget cap.
