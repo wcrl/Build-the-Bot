@@ -1,4 +1,4 @@
-# Watson Combat Robotics League 2022-2023 Spring Rulebook
+# Watson Combat Robotics League 2023-2024 Spring Rulebook
 
 ## Version 3.0 | Revised 2023-01-01
 
