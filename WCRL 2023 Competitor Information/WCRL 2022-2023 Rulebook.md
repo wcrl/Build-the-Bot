@@ -247,7 +247,7 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 
 ## Use of Workspace
 
-- While using communal spaces such as the Watson Fabrication Lab, ITC, and other spaces. Teams must be responsible for:
+- While using communal spaces such as the Watson Fabrication Lab, ITC, and other spaces, teams must be responsible for:
   - Ensuring all equipment is clean and put away in the proper place.
   - Ensuring that the workspace is properly cleaned.
 - Damage to equipment or the arena during bot assembly or testing should be reported to the Executive Board or a shop technician.
