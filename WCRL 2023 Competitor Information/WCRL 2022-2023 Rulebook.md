@@ -59,7 +59,7 @@ _Due to potential scheduling conflicts, the judging committee is subject to chan
 
 ### Competitors
 
-Teams must register to compete in the WCRL by having each member of their team complete the Google Form Registration, and join the discord. Once all members are registered, the team can reach out to the Eboard with their members and team name, to officially register a team.
+Teams must register to compete in the WCRL by having each member of their team complete the Google Form Registration and join the Discord. Once all members are registered, the team can reach out to the Eboard with their members and team name, to officially register a team.
 
 Official bot name, team name, and attachment file names must be school-appropriate and cannot contain the word “weapon” or reference to weapons.
 
@@ -76,7 +76,7 @@ The league refers to the entire 2023-2024 competition season. During this time t
 
 ### Matches
 
-There will be two or more matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live streamed.
+There will be two or more matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
 
 Dates for matches and tournaments can be found on our public [WCRL Event Calendar](https://calendar.google.com/calendar/u/0?cid=YmluZ2hhbXRvbi5lZHVfZWllNDI5bHBuNGg1MWhzczY3bGxxYWNjc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
@@ -85,16 +85,16 @@ Matches are 2 minutes and 30 seconds long, but may be called early for safety co
 Pinning:
 
 - For the first 1 minute and 30 seconds: A bot can pin another bot for a maximum of 8 seconds before having to release the bot for a minimum of 8 seconds. The 8 second limit will be counted down by the WCRL Executive Board member in charge of the match.
-- With less than 60 seconds remaining: If a bot is pinned more than 5 seconds, the pinned bot will lose. The 5 second limit will be counted down by the WCRL Executive Board member in charge of the match.
+- With less than 60 seconds remaining: If a bot is pinned for more than 5 seconds, the pinned bot will lose. The 5 second limit will be counted down by the WCRL Executive Board member in charge of the match.
 
 Bot Control:
 
 - Bots who lose mobility will lose the match following the same 5 second countdown (i.e., you are not pinned, but your wheels stop being able to move your bot).
-- Bots are able to lose the ability to control their competition attachment after the initial inspection (outlined below) without forfeitting the match.
+- Bots are allowed to lose the ability to control their competition attachment after the initial inspection (outlined below) without forfeitting the match.
 
 ### Tournament
 
-There will be one tournament per semester, held in the Binghamton University Innovative Technologies Complex Rotunda. The tournament will run from approximately 9:00 am to 3:00 pm. To be eligible to compete in the tournament teams must either win one competition, or compete in two competitions.
+There will be one tournament per semester, held in the Binghamton University Innovative Technologies Complex Rotunda. The tournament will run from approximately 9:00 am to 3:00 pm. To be eligible to compete in the tournament, teams must either win one competition or compete in two competitions.
 
 More information on the tournament will be released as it becomes available. Any teams not signed in by the end of the inspection period on the day of the tournament will **not** be allowed to compete.
 
@@ -140,7 +140,7 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 ### Competition Attachments (Weapons)
 
-- All bots must have at least one independently powered, 3D printed competition attachment that can seriously affect the operation of another bot. (Note: Bots that have an attachment that cannot cause significant damage to another bot will be seen as _not_ having a competition attachent. This includes flippers that move, but cannot move the weight of the bot with enough power to cause damage).
+- All bots must have at least one independently powered, 3D printed competition attachment that can seriously affect the operation of another bot. (Note: Bots that have an attachment that cannot cause significant damage to another bot will be seen as _not_ having a competition attachment. This includes flippers that move, but cannot move the weight of the bot with enough power to cause damage).
   - A wedge is permissible, as long as it is accompanied by an additional active competition attachment.
   - Competition attachments may be swapped between matches, but may require re-inspection.
   - There is no limit on the number of competition attachments on a particular bot.
@@ -182,11 +182,11 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 ### Remote Control
 
 - No signal jamming, or deliberate signal interference is permitted.
-  - If using Bluetooth controls, renaming the bluetooth transceiver and adding a password is required to prevent signal interference.
+  - If using Bluetooth controls, renaming the Bluetooth transceiver and adding a password is required to prevent signal interference.
   - Taking control of another team's bot is prohibited
 - All control systems must be in compliance with Federal Communications Commission (FCC) regulations, including only accessing and utilizing permitted channels.
 - WCRL, WCRL partners, or WCRL sponsors are not liable if teams do not comply with FCC regulations.
-- The type and manner of power supply for the controller is left to the team’s discretion as long as the selected design does not aid the performance of the bot beyond allowing driver input to reach the bot.
+- The type and manner of power supply for the controller are left to the team’s discretion as long as the selected design does not aid the performance of the bot beyond allowing driver input to reach the bot.
 - There is no restriction on the number of drivers for any one bot as long as all drivers on a team are collectively controlling one single bot.
 
 ### Inspection Period
