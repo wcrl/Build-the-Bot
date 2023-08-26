@@ -1,6 +1,6 @@
-# Watson Combat Robotics League 2022-2023 Spring Rulebook
+# Watson Combat Robotics League Fall 2023 Rulebook
 
-## Version 3.0 | Revised 2023-01-01
+## Version 4.0 | Revised 2023-08-05
 
 ## Overview
 
@@ -14,7 +14,7 @@ The Watson Combat Robotics League Judging Committee and Executive Board reserve 
 
 ### Scope
 
-This document outlines the requirements for any team that intends to compete in the 2022-2023 Watson Combat Robotics League (WCRL) (Spring Specific), including the league’s competitions and tournament.
+This document outlines the requirements for any team that intends to compete in the 2023-2024 Watson Combat Robotics League (WCRL) (Spring Specific), including the league’s competitions and tournament.
 
 The Watson Combat Robotics League is an officially recognized Thomas J. Watson College of Engineering and Applied Sciences Student Organization under the oversight of the Electrical and Computer Engineering Department and facilitated by the Watson Combat Robotics League Executive Board.
 
@@ -30,25 +30,23 @@ The following rules have been constructed to be as unrestrictive to the design p
 - **Executive Board:** The governing body of the Watson Combat Robotics League, listed in section 4.1.
 - **Inspection Checklist:** A document provided to teams prior to the tournament and/or any subsequent tournaments that outlines the most common rule violations to help ensure bots are in compliance with the rules contained herein.
 - **Inspection Period:** A portion of the tournament, and/or any subsequent tournaments, in which bots are weighed, measured, and are otherwise verified to abide by these rules. Any bots who do not pass inspection by the end of the inspection period are **not** eligible to demonstrate/compete on that day.  
-  - **Note: WCRL Executive Board Officers will be holding office hours weekly leading up to the competition and can inspect bots to ensure rule compliance upon team request.**
+  - **Note: WCRL Executive Board Officers will be holding open lab hours weekly leading up to the competition and can inspect bots to ensure rule compliance upon team request.**
 - **Judging Panel:** The judges of the tournament. These judges will determine the winner of individual matches, and decide two of the three awards, as indicated in section 3.3.
-- **League:** The league refers to the entire 2022-2023 competition season
+- **League:** The league refers to the entire 2023-2024 competition season
 - **Power Switch:** Mechanically and directly shuts off power to the entire bot as explained in section 5.8.
 - **Tournament:** A larger competition hosted by the WCRL one weekend per semester.**
 - **BOM:** Bill of materials, a complete list of all component parts on the bot including specifications, number of items, and prices.
 
 ### Executive Board
 
-- Chairperson: [Daniel Iacobacci](diacoba1@binghamton.edu)
-- Vice-Chairperson: [Dillon Kane](dkane3@binghamton.edu)
-- Build Technicians: [John Pforte](jpforte1@binghamton.edu) | [Ryan Calhoun](rcalhou1@binghamton.edu) | [Zack Schwid](zschwid1@binghamton.edu) | [Nathaniel Sehati](nsehati1@binghamton.edu) | [Luke Riddoch](lriddoc1@binghamton.edu)
-- Competition Coordinator: [Sophie Jaeger](sjaeger1@binghamton.edu)
-- Tournament Coordinator: _Vacant_
-- Public Relations Coordinator: [Tom Eaton](teaton1@binghamton.edu)
-- First-Year Ambassadors: [Edward Nunez](enunez10@binghamton.edu) | [Benjamin Sharples](bsharpl1@binghamton.edu)
+- Chairperson: [John Pforte](jpforte1@binghamton.edu)
+- Vice-Chairperson: [Luke Riddoch](lriddoc1@binghamton.edu)
+- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Daniel Bondar](dbondar2@binghamton.edu) | [Becca Carpenter](rcarpen6@binghamton.edu) | [Diane Gavrylyuk](dgavryl1@binghamton.edu) | [Kirill Kobyakov](kkobyak2@binghamton.edu) | [Edward Nunez](enunez10@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu)
+- Competition Coordinators: [Ryan Calhoun](rcalhou1@binghamton.edu) | [Lauren Frye](lfrye1@binghamton.edu) | [Haiden Danto-Scanlan](hdantos1@binghamton.edu) | [David Stein](dstein8@binghamton.edu)
+- First-Year Ambassadors: TBD
 - Faculty Advisor: [Professor Wenfeng Zhao](wzhao@binghamton.edu)
 
-### Judging Committee
+### Judging Committee 
 
 - [Professor Douglas Summerville](dsummer@binghamton.edu) (ECE)
 - [Professor Scott Craver](Scraver@Binghamton.edu) (ECE)
@@ -61,7 +59,7 @@ _Due to potential scheduling conflicts, the judging committee is subject to chan
 
 ### Competitors
 
-Teams must register to compete in the WCRL by having each member of their team complete the Google Form Registration, and join the discord. Once all members are registered, the team can reach out to the Eboard with their members and team name, to officially register a team.
+Teams must register to compete in the WCRL by having each member of their team complete the Google Form Registration and join the Discord. Once all members are registered, the team can reach out to the Eboard with their members and team name, to officially register a team.
 
 Official bot name, team name, and attachment file names must be school-appropriate and cannot contain the word “weapon” or reference to weapons.
 
@@ -74,11 +72,11 @@ Official bot name, team name, and attachment file names must be school-appropria
 
 ## League Overview
 
-The league refers to the entire 2022-2023 competition season. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
+The league refers to the entire 2023-2024 competition season. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
 
 ### Matches
 
-There will be two or more matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live streamed.
+There will be two or more matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
 
 Dates for matches and tournaments can be found on our public [WCRL Event Calendar](https://calendar.google.com/calendar/u/0?cid=YmluZ2hhbXRvbi5lZHVfZWllNDI5bHBuNGg1MWhzczY3bGxxYWNjc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
@@ -87,16 +85,16 @@ Matches are 2 minutes and 30 seconds long, but may be called early for safety co
 Pinning:
 
 - For the first 1 minute and 30 seconds: A bot can pin another bot for a maximum of 8 seconds before having to release the bot for a minimum of 8 seconds. The 8 second limit will be counted down by the WCRL Executive Board member in charge of the match.
-- With less than 60 seconds remaining: If a bot is pinned more than 5 seconds, the pinned bot will lose. The 5 second limit will be counted down by the WCRL Executive Board member in charge of the match.
+- With less than 60 seconds remaining: If a bot is pinned for more than 5 seconds, the pinned bot will lose. The 5 second limit will be counted down by the WCRL Executive Board member in charge of the match.
 
 Bot Control:
 
 - Bots who lose mobility will lose the match following the same 5 second countdown (i.e., you are not pinned, but your wheels stop being able to move your bot).
-- Bots are able to lose the ability to control their competition attachment after the initial inspection (outlined below) without forfeitting the match.
+- Bots are allowed to lose the ability to control their competition attachment after the initial inspection (outlined below) without forfeitting the match.
 
 ### Tournament
 
-There will be one tournament per semester, held in the Binghamton University Innovative Technologies Complex Rotunda. The tournament will run from approximately 9:00 am to 3:00 pm. To be eligible to compete in the tournament teams must either win one competition, or compete in two competitions.
+There will be one tournament per semester, held in the Binghamton University Innovative Technologies Complex Rotunda. The tournament will run from approximately 9:00 am to 3:00 pm. To be eligible to compete in the tournament, teams must either win one competition or compete in two competitions.
 
 More information on the tournament will be released as it becomes available. Any teams not signed in by the end of the inspection period on the day of the tournament will **not** be allowed to compete.
 
@@ -131,7 +129,7 @@ There will be three awards presented at the Tournaments, effectively serving as 
   - Suggested maximum height is 25 cm.
   - Bots can be weighed on scales made available by the WCRL Executive Board
   - There are no other size restrictions on bots.
-    - Note: The arena is 1.83m x 1.83m x 0.28m, so keep this in mind for bot design (More on this in section 6.1).
+    - Note: The arena is 1.83m x 1.83m x 0.91m (6ft x 6ft x 3ft), so keep this in mind for bot design (More on this in section 6.1).
 - Each bot shall be entirely 3D printed with an approved 3D Printing material, outlined below:
   - Permissible 3D printing materials include: ABS, PLA (and PLA variants), PETG, Resin, and TPU. Filaments not listed must be approved by the Executive Board.
 - The following items are exceptions to the 3D printed requirement: motors, wheels, electronics, axles, bearings, pins, fasteners, rubber bands, belts, adhesives
@@ -142,7 +140,7 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 ### Competition Attachments (Weapons)
 
-- All bots must have at least one independently powered, 3D printed competition attachment that can seriously affect the operation of another bot. (Note: Bots that have an attachment that cannot cause significant damage to another bot will be seen as _not_ having a competition attachent. This includes flippers that move, but cannot move the weight of the bot with enough power to cause damage).
+- All bots must have at least one independently powered, 3D printed competition attachment that can seriously affect the operation of another bot. (Note: Bots that have an attachment that cannot cause significant damage to another bot will be seen as _not_ having a competition attachment. This includes flippers that move, but cannot move the weight of the bot with enough power to cause damage).
   - A wedge is permissible, as long as it is accompanied by an additional active competition attachment.
   - Competition attachments may be swapped between matches, but may require re-inspection.
   - There is no limit on the number of competition attachments on a particular bot.
@@ -184,11 +182,11 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 ### Remote Control
 
 - No signal jamming, or deliberate signal interference is permitted.
-  - If using Bluetooth controls, renaming the bluetooth transceiver and adding a password is required to prevent signal interference.
+  - If using Bluetooth controls, renaming the Bluetooth transceiver and adding a password is required to prevent signal interference.
   - Taking control of another team's bot is prohibited
 - All control systems must be in compliance with Federal Communications Commission (FCC) regulations, including only accessing and utilizing permitted channels.
 - WCRL, WCRL partners, or WCRL sponsors are not liable if teams do not comply with FCC regulations.
-- The type and manner of power supply for the controller is left to the team’s discretion as long as the selected design does not aid the performance of the bot beyond allowing driver input to reach the bot.
+- The type and manner of power supply for the controller are left to the team’s discretion as long as the selected design does not aid the performance of the bot beyond allowing driver input to reach the bot.
 - There is no restriction on the number of drivers for any one bot as long as all drivers on a team are collectively controlling one single bot.
 
 ### Inspection Period
@@ -201,7 +199,7 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 
 ### Arena
 
-- The arena is 1.83m x 1.83m x 0.28m
+- The arena is 1.83m x 1.83m x 0.91m (6ft x 6ft x 3ft)
 - Note: The floor of the arena is subject to change, and may not be perfectly flat. Testing is recommended prior to the competition to ensure your bot can traverse the arena successfully.
 - Once the bot is placed inside the arena, there shall be no further physical interaction with the bot by team members.
 - The arena may have additional active and passive field elements to contend with.
@@ -249,7 +247,7 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 
 ## Use of Workspace
 
-- While using communal spaces such as the Watson Fabrication Lab, ITC, and other spaces. Teams must be responsible for:
+- While using communal spaces such as the Watson Fabrication Lab, ITC, and other spaces, teams must be responsible for:
   - Ensuring all equipment is clean and put away in the proper place.
   - Ensuring that the workspace is properly cleaned.
 - Damage to equipment or the arena during bot assembly or testing should be reported to the Executive Board or a shop technician.
@@ -260,7 +258,7 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 - Each team is limited to a budget cap of $125.
   - 3D printed parts will not be counted towards the budget due to the necessity of spares for multiple matches.
   - The $125 refers to parts on the bot at any given time. Spare parts are not included in the budget cap.
-  - This maximum budget for bots includes all control systems, unless you are using a mobile device (cell phone, tablet) for controlling your bot. In which case, the device itself does not count in the budget.
+  - This maximum budget for bots includes all control systems, unless you are using a mobile device (cell phone, tablet) for controlling your bot or you have built the controller yourself. In which case, the device itself does not count in the budget.
 - Donated or salvaged items must be recorded in the budget as costing an equivalent price to the same part online, sold and shipped by Amazon or Alibaba.
   - If there is any confusion on pricing, the final ruling will be made by the Executive Board.
 - WCRL Partners (I.E., Watson student groups) can sponsor their respective teams with any amount of funding. However, each team is still subject to the budget cap.
