@@ -6,7 +6,7 @@ Welcome to the Build-the-Bot platform! Build-the-Bot is an open-source Arduino b
 
 To get started, read the [Getting Started Guide](https://github.com/wcrl/Build-the-Bot/blob/453a59d6409c2aacc2f1eb8cd54fe76791a7de1f/Getting%20Started/Getting%20Started.md) and the [3D Printing Guide](https://github.com/wcrl/Build-the-Bot/blob/453a59d6409c2aacc2f1eb8cd54fe76791a7de1f/Getting%20Started/3D%20Printing%20Guide.md). From there, start designing and planning out your bot! 
 
-### Join our [WCRL Discord](https://discord.gg/UzuaAJWp)
+### Join our [WCRL Discord](https://discord.gg/YJxM6xMASq)
 
 In order to move to registered status and gain access to more channels make sure you
 - Change your discord nickname in this server to your first and last name 
