@@ -66,28 +66,31 @@ Teams must register to compete in the WCRL by having each member of their team c
 Official bot name, team name, and attachment file names must be school-appropriate and cannot contain the word “weapon” or reference to weapons.
 
 - Team and bot names are subject to Executive Board approval.
-- There can be multiple bots per team – each additional bot will be the team name followed by a letter.
-  - Bots must be sufficiently distinct from one another to be able to compete under the same team name. As in, spares of one bot competing as a “new bot” wouldn’t count.
-  - _Ex. Awesome Bot A, Awesome Bot B, …_
+- Teams may compete with multiple bots if the following criteria are met:
+  - Each bot satisfies the requirements.
+  - The sum of all robot weights are less than the 1kg weight limit.
 
 ---
 
 ## League Overview
 
-The league refers to the entire 2023-2024 competition season. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
+The league refers to the entire 2023-2024 competition seasons. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
 
 ### Matches
 
-There will be two or more matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
+There will five matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
 
 Dates for matches and tournaments can be found on our public [WCRL Event Calendar](https://calendar.google.com/calendar/u/0?cid=YmluZ2hhbXRvbi5lZHVfZWllNDI5bHBuNGg1MWhzczY3bGxxYWNjc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
-Matches are 2 minutes and 30 seconds long, but may be called early for safety concerns or if a winner is decided based on the below criteria.
+Matches are 2 minutes long, but may be called early for safety concerns or if a winner is decided based on the below criteria.
 
 Pinning:
 
-- For the first 1 minute and 30 seconds: A bot can pin another bot for a maximum of 8 seconds before having to release the bot for a minimum of 8 seconds. The 8 second limit will be counted down by the WCRL Executive Board member in charge of the match.
+- For the first 1 minute: A bot can pin another bot for a maximum of 5 seconds before having to release the bot for a minimum of 5 seconds. The 8 second limit will be counted down by the WCRL Executive Board member in charge of the match.
 - With less than 60 seconds remaining: If a bot is pinned for more than 5 seconds, the pinned bot will lose. The 5 second limit will be counted down by the WCRL Executive Board member in charge of the match.
+  - For teams competing with multiple bots, the rules on pinning are as follows:
+    - If bots are equal weights: All bots must be pinned. If a bot is pinned during the eligible time, it may no longer be used.
+    - If bots are unequal weights: A majority of the weight must be pinned in order to win. 
 
 Bot Control:
 
@@ -96,7 +99,7 @@ Bot Control:
 
 ### Tournament
 
-There will be one tournament per semester, held in the Binghamton University Innovative Technologies Complex Rotunda. The tournament will run from approximately 9:00 am to 3:00 pm. To be eligible to compete in the tournament, teams must either win one competition or compete in two competitions.
+There will be one tournament per semester, held in the Binghamton University Innovative Technologies Complex Rotunda. The tournament will run from approximately 9:00 am to 3:00 pm. To be eligible to compete in the tournament, teams must either win one qualifying competition or compete in two qualifying competitions.
 
 More information on the tournament will be released as it becomes available. Any teams not signed in by the end of the inspection period on the day of the tournament will **not** be allowed to compete.
 
