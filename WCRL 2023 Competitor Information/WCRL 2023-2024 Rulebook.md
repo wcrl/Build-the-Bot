@@ -1,6 +1,6 @@
-# Watson Combat Robotics League Fall 2023 Rulebook
+# Watson Combat Robotics League Fall 2023 - Spring 2024 Rulebook
 
-## Version 4.0 | Revised 2023-08-05
+## Version 4.1 | Revised 2023-04-16
 
 ## Overview
 
@@ -41,9 +41,12 @@ The following rules have been constructed to be as unrestrictive to the design p
 
 - Chairperson: [John Pforte](jpforte1@binghamton.edu)
 - Vice-Chairperson: [Luke Riddoch](lriddoc1@binghamton.edu)
-- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Daniel Bondar](dbondar2@binghamton.edu) | [Becca Carpenter](rcarpen6@binghamton.edu) | [Diane Gavrylyuk](dgavryl1@binghamton.edu) | [Kirill Kobyakov](kkobyak2@binghamton.edu) | [Edward Nunez](enunez10@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu)
-- Competition Coordinators: [Ryan Calhoun](rcalhou1@binghamton.edu) | [Lauren Frye](lfrye1@binghamton.edu) | [Haiden Danto-Scanlan](hdantos1@binghamton.edu) | [David Stein](dstein8@binghamton.edu)
-- First-Year Ambassadors: TBD
+- League Coordinator: [Ryan Calhoun](rcalhou1@binghamton.edu) 
+- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Edward Nunez](enunez10@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu) | [Walter Schutz](wschutz1@binghamton.edu) 
+- Competition Coordinator: [David Stein](dstein8@binghamton.edu)
+- Outreach Coordinator: [Haiden Danto-Scanlan](hdantos1@binghamton.edu)
+- Social Media Coordinator: [Mckenzie Viersma](mviersm1@binghamton.edu)
+- First-Year Ambassadors: [Melanie Koren](mkoren1@binghamton.edu) | [Erick Palka](epalka@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu) | [Timothy Tran](ttran14@binghamton.edu)
 - Faculty Advisor: [Professor Wenfeng Zhao](wzhao@binghamton.edu)
 
 ### Judging Committee 
@@ -53,7 +56,6 @@ The following rules have been constructed to be as unrestrictive to the design p
 - [Professor Wenfeng Zhao](wzhao@binghamton.edu) (ECE | Faculty Advisor)
 - [Professor Koenraad Gieskes](gieskes@binghamton.edu) (EDD)
 - [Professor Melissa Simonik](msimonik@binghamton.edu) (EDD)
-- [Professor Kaiyan Yu](kyu@binghamton.edu) (ME)
 
 _Due to potential scheduling conflicts, the judging committee is subject to change at any time without formal notice in this rulebook. In the event of a tie, a member of the Executive Board will act as the tie-breaking vote._
 
