@@ -1,5 +1,0 @@
-Changes from V2:
-- Fixed XT60 Board Connector as previously the GND and 12V pins were flipped
-- Add JST-XH 2 pin for LED
-- Change input pins for one half of the motor driver from A6/A7 to A4/A5 (A6/A7 cannot be used as digital pins)
-- Large WCRL silkscreen on back of board
