@@ -168,7 +168,7 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 
 - [Only LiPo Batteries](https://www.amazon.com/dp/B07Y67CHJT/?coliid=I34AU5484KJY88&colid=1XSIUG9AQPBZB&psc=1&ref_=lv_ov_lig_dp_it) that do not exceed 14 V (4s) nominally are allowed
   - Refer to Appendix 1 for more information on Battery Safety
-- The maximum voltage anywhere on the bot is not to exceed 12V.
+- The maximum voltage anywhere on the bot is not to exceed 14V.
 - Batteries must be sufficiently protected.
   - I.E., If one could jam the blade of a long screwdriver through gaps in the 3D printed shell/frame of the bot and hit the battery, it is not sufficiently protected.
 - During the competition, the WCRL executive team will swap drained batteries for fully charged ones to prevent the need for any team to charge their own batteries.
