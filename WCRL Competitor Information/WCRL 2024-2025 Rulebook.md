@@ -1,6 +1,6 @@
-# Watson Combat Robotics League Fall 2023 - Spring 2024 Rulebook
+# Watson Combat Robotics League Fall 2024 - Spring 2025 Rulebook
 
-## Version 4.1 | Revised 2023-04-16
+## Version 5.0 | Revised 2024-09-12
 
 ## Overview
 
@@ -14,7 +14,7 @@ The Watson Combat Robotics League Judging Committee and Executive Board reserve 
 
 ### Scope
 
-This document outlines the requirements for any team that intends to compete in the 2023-2024 Watson Combat Robotics League (WCRL) (Spring Specific), including the league’s competitions and tournament.
+This document outlines the requirements for any team that intends to compete in the 2024-2025 Watson Combat Robotics League (WCRL), including the league’s competitions and tournament.
 
 The Watson Combat Robotics League is an officially recognized Thomas J. Watson College of Engineering and Applied Sciences Student Organization under the oversight of the Electrical and Computer Engineering Department and facilitated by the Watson Combat Robotics League Executive Board.
 
@@ -32,7 +32,7 @@ The following rules have been constructed to be as unrestrictive to the design p
 - **Inspection Period:** A portion of the tournament, and/or any subsequent tournaments, in which bots are weighed, measured, and are otherwise verified to abide by these rules. Any bots who do not pass inspection by the end of the inspection period are **not** eligible to demonstrate/compete on that day.  
   - **Note: WCRL Executive Board Officers will be holding open lab hours weekly leading up to the competition and can inspect bots to ensure rule compliance upon team request.**
 - **Judging Panel:** The judges of the tournament. These judges will determine the winner of individual matches, and decide two of the three awards, as indicated in section 3.3.
-- **League:** The league refers to the entire 2023-2024 competition season
+- **League:** The league refers to the entire 2024-2025 competition season
 - **Power Switch:** Mechanically and directly shuts off power to the entire bot as explained in section 5.8.
 - **Tournament:** A larger competition hosted by the WCRL one weekend per semester.**
 - **BOM:** Bill of materials, a complete list of all component parts on the bot including specifications, number of items, and prices.
@@ -40,13 +40,15 @@ The following rules have been constructed to be as unrestrictive to the design p
 ### Executive Board
 
 - Chairperson: [John Pforte](jpforte1@binghamton.edu)
-- Vice-Chairperson: [Luke Riddoch](lriddoc1@binghamton.edu)
-- League Coordinator: [Ryan Calhoun](rcalhou1@binghamton.edu) 
-- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Edward Nunez](enunez10@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu) | [Walter Schutz](wschutz1@binghamton.edu) 
-- Competition Coordinator: [David Stein](dstein8@binghamton.edu)
+- League Managger: [Ryan Calhoun](rcalhou1@binghamton.edu)
+- Project Manager: [Walter Schutz](wschutz1@binghamton.edu)
+- Technical Coordinator: [Ben Sharples](bsharpl1@binghamton.edu)
+- Project Team Leads: [Sam Abramson](sabrams5@binghamton.edu) | [Erick Palka](epalka@binghamton.edu)
+- Build Technicians: [Melanie Koren](mkoren1@binghamton.edu) |[Aadhi Maalaven Mahesh](amahesh3@binghamton.edu) | [Edward Nunez](enunez10@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu) | [Mckenzie Viersma](mviersm1@binghamton.edu)
+- Competition Coordinator: [Rohan Bajwa](rbajwa1@binghamton.edu) | [David Stein](dstein8@binghamton.edu)
 - Outreach Coordinator: [Haiden Danto-Scanlan](hdantos1@binghamton.edu)
 - Social Media Coordinator: [Mckenzie Viersma](mviersm1@binghamton.edu)
-- First-Year Ambassadors: [Melanie Koren](mkoren1@binghamton.edu) | [Erick Palka](epalka@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu) | [Timothy Tran](ttran14@binghamton.edu)
+- First-Year Ambassadors: TBD
 - Faculty Advisor: [Professor Wenfeng Zhao](wzhao@binghamton.edu)
 
 ### Judging Committee 
@@ -74,7 +76,7 @@ Official bot name, team name, and attachment file names must be school-appropria
 
 ## League Overview
 
-The league refers to the entire 2023-2024 competition seasons. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
+The league refers to the entire 2024-2025 competition seasons. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
 
 ### Matches
 
@@ -86,7 +88,7 @@ Matches are 2 minutes long, but may be called early for safety concerns or if a 
 
 Pinning:
 
-- For the first 1 minute: A bot can pin another bot for a maximum of 5 seconds before having to release the bot for a minimum of 5 seconds. The 8 second limit will be counted down by the WCRL Executive Board member in charge of the match.
+- For the first 1 minute: A bot can pin another bot for a maximum of 5 seconds before having to release the bot for a minimum of 5 seconds. The 5 second limit will be counted down by the WCRL Executive Board member in charge of the match.
 - With less than 60 seconds remaining: If a bot is pinned for more than 5 seconds, the pinned bot will lose. The 5 second limit will be counted down by the WCRL Executive Board member in charge of the match.
   - For teams competing with multiple bots, the rules on pinning are as follows:
     - If bots are equal weights: All bots must be pinned. If a bot is pinned during the eligible time, it may no longer be used.
@@ -99,7 +101,7 @@ Bot Control:
 
 ### Tournament
 
-There will be one tournament per semester, held in the Binghamton University Innovative Technologies Complex Rotunda. The tournament will run from approximately 9:00 am to 3:00 pm. To be eligible to compete in the tournament, teams must either win one qualifying competition or compete in two qualifying competitions.
+There will be one tournament per semester, held in the Binghamton University Innovative Technologies Complex Rotunda. The tournament will run from approximately 10:00 am to 3:00 pm. To be eligible to compete in the tournament, teams must either win one qualifying competition or compete in two qualifying competitions.
 
 More information on the tournament will be released as it becomes available. Any teams not signed in by the end of the inspection period on the day of the tournament will **not** be allowed to compete.
 
@@ -129,7 +131,7 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 ### Core Specifications
 
-- The maximum weight for any bot is 1,000g (1kg).
+- The maximum weight for any bot is 1lb (453.6g).
 - The maximum height for any bot is determined by the height of the arena.
   - Suggested maximum height is 25 cm.
   - Bots can be weighed on scales made available by the WCRL Executive Board
@@ -166,7 +168,7 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
 
 - [Only LiPo Batteries](https://www.amazon.com/dp/B07Y67CHJT/?coliid=I34AU5484KJY88&colid=1XSIUG9AQPBZB&psc=1&ref_=lv_ov_lig_dp_it) that do not exceed 14 V (4s) nominally are allowed
   - Refer to Appendix 1 for more information on Battery Safety
-- The maximum voltage anywhere on the bot is not to exceed 24V.
+- The maximum voltage anywhere on the bot is not to exceed 14V.
 - Batteries must be sufficiently protected.
   - I.E., If one could jam the blade of a long screwdriver through gaps in the 3D printed shell/frame of the bot and hit the battery, it is not sufficiently protected.
 - During the competition, the WCRL executive team will swap drained batteries for fully charged ones to prevent the need for any team to charge their own batteries.
