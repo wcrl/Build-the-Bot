@@ -32,21 +32,21 @@ The following rules have been constructed to be as unrestrictive to the design p
 - **Inspection Period:** A portion of the tournament, and/or any subsequent tournaments, in which bots are weighed, measured, and are otherwise verified to abide by these rules. Any bots who do not pass inspection by the end of the inspection period are **not** eligible to demonstrate/compete on that day.  
   - **Note: WCRL Executive Board Officers will be holding open lab hours weekly leading up to the competition and can inspect bots to ensure rule compliance upon team request.**
 - **Judging Panel:** The judges of the tournament. These judges will determine the winner of individual matches, and decide two of the three awards, as indicated in section 3.3.
-- **League:** The league refers to the entire 2023-2024 competition season
+- **League:** The league refers to the entire 2024-2025 competition season
 - **Power Switch:** Mechanically and directly shuts off power to the entire bot as explained in section 5.8.
 - **Tournament:** A larger competition hosted by the WCRL one weekend per semester.**
 - **BOM:** Bill of materials, a complete list of all component parts on the bot including specifications, number of items, and prices.
 
 ### Executive Board
 
-- Chairperson: [John Pforte](jpforte1@binghamton.edu)
-- Vice-Chairperson: [Luke Riddoch](lriddoc1@binghamton.edu)
+- Chairperson: [Mckenzie Viersma](mviersm1@binghamton.edu)
+- Vice-Chairperson: [John Pforte](jpforte1@binghamton.edu)
 - League Coordinator: [Ryan Calhoun](rcalhou1@binghamton.edu) 
-- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Edward Nunez](enunez10@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu) | [Walter Schutz](wschutz1@binghamton.edu) 
-- Competition Coordinator: [David Stein](dstein8@binghamton.edu)
+- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu) | [Walter Schutz](wschutz1@binghamton.edu) | [Melanie Koren](mkoren1@binghamton.edu) | [Erick Palka](epalka@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu)
+- Competition Coordinator: [Rohan Bajwa](rbajwa1@binghamton.edu)
 - Outreach Coordinator: [Haiden Danto-Scanlan](hdantos1@binghamton.edu)
-- Social Media Coordinator: [Mckenzie Viersma](mviersm1@binghamton.edu)
-- First-Year Ambassadors: [Melanie Koren](mkoren1@binghamton.edu) | [Erick Palka](epalka@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu) | [Timothy Tran](ttran14@binghamton.edu)
+- Social Media Coordinator: [Xinlin Wu](xwu19@binghamton.edu)
+- First-Year Ambassadors: [Jay Akasofu](jakasofu@binghamton.edu) | [Alexander Sosa](asosa@binghamton.edu) | [Xinlin Wu](xwu19@binghamton.edu)
 - Faculty Advisor: [Professor Wenfeng Zhao](wzhao@binghamton.edu)
 
 ### Judging Committee 
@@ -68,17 +68,17 @@ Official bot name, team name, and attachment file names must be school-appropria
 - Team and bot names are subject to Executive Board approval.
 - Teams may compete with multiple bots if the following criteria are met:
   - Each bot satisfies the requirements.
-  - The sum of all robot weights are less than the 1kg weight limit.
+  - The sum of all robot weights are less than the 1 lb weight limit.
 
 ---
 
 ## League Overview
 
-The league refers to the entire 2023-2024 competition seasons. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
+The league refers to the entire 2024-2025 competition seasons. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
 
 ### Matches
 
-There will five matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
+There will six matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
 
 Dates for matches and tournaments can be found on our public [WCRL Event Calendar](https://calendar.google.com/calendar/u/0?cid=YmluZ2hhbXRvbi5lZHVfZWllNDI5bHBuNGg1MWhzczY3bGxxYWNjc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
@@ -95,7 +95,7 @@ Pinning:
 Bot Control:
 
 - Bots who lose mobility will lose the match following the same 5 second countdown (i.e., you are not pinned, but your wheels stop being able to move your bot).
-- Bots are allowed to lose the ability to control their competition attachment after the initial inspection (outlined below) without forfeitting the match.
+- Bots are allowed to lose the ability to control their competition attachment after the initial inspection (outlined below) without forfeiting the match.
 
 ### Tournament
 
@@ -129,7 +129,7 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 ### Core Specifications
 
-- The maximum weight for any bot is 1,000g (1kg).
+- The maximum weight for any bot is 453 g (1 lb).
 - The maximum height for any bot is determined by the height of the arena.
   - Suggested maximum height is 25 cm.
   - Bots can be weighed on scales made available by the WCRL Executive Board
