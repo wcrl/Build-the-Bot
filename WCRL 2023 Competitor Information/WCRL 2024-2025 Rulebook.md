@@ -14,7 +14,7 @@ The Watson Combat Robotics League Judging Committee and Executive Board reserve 
 
 ### Scope
 
-This document outlines the requirements for any team that intends to compete in the 2023-2024 Watson Combat Robotics League (WCRL) (Spring Specific), including the league’s competitions and tournament.
+This document outlines the requirements for any team that intends to compete in the 2024-2025 Watson Combat Robotics League (WCRL) (Spring Specific), including the league’s competitions and tournaments.
 
 The Watson Combat Robotics League is an officially recognized Thomas J. Watson College of Engineering and Applied Sciences Student Organization under the oversight of the Electrical and Computer Engineering Department and facilitated by the Watson Combat Robotics League Executive Board.
 
