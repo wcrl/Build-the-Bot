@@ -123,7 +123,8 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 ### Bot Control
 
-- The driver(s) must maintain control over all of the bot’s functions at any given time.
+- The driver(s) must maintain control over all of the bot’s functions at any given time, i.e. they shall not be autonomous.
+  - Any robot that moves, seeks a target, or activates weapons without human control is considered autonomous.
 - There is **not** an autonomous portion of this competition. This is subject to change in future competitions.
 
 ### Core Specifications
@@ -174,14 +175,9 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
   - Teams must return the provided battery prior to utilizing another one.
 - Teams using WCRL provided batteries must have under-voltage protections in place to prevent damaging the batteries. An under-voltage alert buzzer circuit will be available to teams to use in their designs.
 - Bots must have a visible LED that is on whenever the bot is on.
-- Power Switches
-  - There must be a Power Switch on the bot.
-    - The power switch must be located on the exterior of the bot
-      - Power Switch operation must be simple enough to allow anyone present to use it.
-      - Normal Power switch operation cannot require any lifting or tilting of the bot.
-      - Switch operation cannot require that a person get in the path of any competition attachment.
-      - No tools must be required to utilize the Power Switch.
-      - An insertable/removable jumper plug is an approved (and preferred) alternative to other types of Power Switch.
+- Kill Switches
+  - All robots must be able to be FULLY deactivated, which includes power to
+drive and weaponry, in under 60 seconds by a manual disconnect.
 
 ### Remote Control
 
