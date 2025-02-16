@@ -39,10 +39,9 @@ The following rules have been constructed to be as unrestrictive to the design p
 
 ### Executive Board
 
-- Chairperson: [Mckenzie Viersma](mviersm1@binghamton.edu)
-- Vice-Chairperson: [John Pforte](jpforte1@binghamton.edu)
+- Chairperson: [John Pforte](jpforte1@binghamton.edu)
 - League Coordinator: [Ryan Calhoun](rcalhou1@binghamton.edu) 
-- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu) | [Walter Schutz](wschutz1@binghamton.edu) | [Melanie Koren](mkoren1@binghamton.edu) | [Erick Palka](epalka@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu)
+- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu) | [Walter Schutz](wschutz1@binghamton.edu) | [Melanie Koren](mkoren1@binghamton.edu) | [Erick Palka](epalka@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu) | [Mckenzie Viersma](mviersm1@binghamton.edu)
 - Competition Coordinator: [Rohan Bajwa](rbajwa1@binghamton.edu)
 - Outreach Coordinator: [Haiden Danto-Scanlan](hdantos1@binghamton.edu)
 - Social Media Coordinator: [Xinlin Wu](xwu19@binghamton.edu)
