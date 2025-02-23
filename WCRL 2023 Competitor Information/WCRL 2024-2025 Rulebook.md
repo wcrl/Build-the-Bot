@@ -116,7 +116,9 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 ### Mobility
 
-- The bot must move around in a controlled manner without causing intentional damage to the arena.
+- All robots must have easily visible and controlled mobility in order to compete.
+Methods of mobility include but are not limited to:
+  - Rolling (wheels, tracks or the whole robot)
 - No flying, hovering, or otherwise floating bots will be permitted.
   - If a bot is lifted from the floor in the normal course of the match, the bot will not be penalized.
   - Jumping bots are permitted.
@@ -147,6 +149,8 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 - All bots must have at least one independently powered, 3D printed competition attachment that can seriously affect the operation of another bot. (Note: Bots that have an attachment that cannot cause significant damage to another bot will be seen as _not_ having a competition attachment. This includes flippers that move, but cannot move the weight of the bot with enough power to cause damage).
   - A wedge is permissible, as long as it is accompanied by an additional active competition attachment.
+  - Spinning weapons must come to a full stop within 60 seconds of the power
+being removed using a self-contained braking system
   - Competition attachments may be swapped between matches, but may require re-inspection.
   - There is no limit on the number of competition attachments on a particular bot.
   - **The following items are not permitted under any circumstances:**
