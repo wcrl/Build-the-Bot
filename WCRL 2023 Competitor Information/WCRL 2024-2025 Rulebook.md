@@ -123,12 +123,6 @@ Methods of mobility include but are not limited to:
   - If a bot is lifted from the floor in the normal course of the match, the bot will not be penalized.
   - Jumping bots are permitted.
 
-### Bot Control
-
-- The driver(s) must maintain control over all of the bot’s functions at any given time, i.e. they shall not be autonomous.
-  - Any robot that moves, seeks a target, or activates weapons without human control is considered autonomous.
-- There is **not** an autonomous portion of this competition. This is subject to change in future competitions.
-
 ### Core Specifications
 
 - The maximum weight for any bot is 453 g (1 lb).
