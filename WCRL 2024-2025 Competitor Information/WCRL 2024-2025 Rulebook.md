@@ -77,9 +77,9 @@ The league refers to the entire 2024-2025 competition seasons. During this time 
 
 ### Matches
 
-There will six matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
+There will six qualifying competitions per season, held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
 
-Dates for matches and tournaments can be found on our public [WCRL Event Calendar](https://calendar.google.com/calendar/u/0?cid=YmluZ2hhbXRvbi5lZHVfZWllNDI5bHBuNGg1MWhzczY3bGxxYWNjc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+Dates for qualifying competitions and tournaments can be found on our public [WCRL Event Calendar](https://calendar.google.com/calendar/u/0?cid=YmluZ2hhbXRvbi5lZHVfZWllNDI5bHBuNGg1MWhzczY3bGxxYWNjc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Matches are 2 minutes long, but may be called early for safety concerns or if a winner is decided based on the below criteria.
 
