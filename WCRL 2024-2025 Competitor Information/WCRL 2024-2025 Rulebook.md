@@ -1,6 +1,6 @@
-# Watson Combat Robotics League Fall 2023 - Spring 2024 Rulebook
+# Watson Combat Robotics League Fall 2024 - Spring 2025 Rulebook
 
-## Version 4.1 | Revised 2023-04-16
+## Version 4.2 | Revised 2025-02-07
 
 ## Overview
 
@@ -14,7 +14,7 @@ The Watson Combat Robotics League Judging Committee and Executive Board reserve 
 
 ### Scope
 
-This document outlines the requirements for any team that intends to compete in the 2023-2024 Watson Combat Robotics League (WCRL) (Spring Specific), including the league’s competitions and tournament.
+This document outlines the requirements for any team that intends to compete in the 2024-2025 Watson Combat Robotics League (WCRL) (Spring Specific), including the league’s competitions and tournaments.
 
 The Watson Combat Robotics League is an officially recognized Thomas J. Watson College of Engineering and Applied Sciences Student Organization under the oversight of the Electrical and Computer Engineering Department and facilitated by the Watson Combat Robotics League Executive Board.
 
@@ -32,7 +32,7 @@ The following rules have been constructed to be as unrestrictive to the design p
 - **Inspection Period:** A portion of the tournament, and/or any subsequent tournaments, in which bots are weighed, measured, and are otherwise verified to abide by these rules. Any bots who do not pass inspection by the end of the inspection period are **not** eligible to demonstrate/compete on that day.  
   - **Note: WCRL Executive Board Officers will be holding open lab hours weekly leading up to the competition and can inspect bots to ensure rule compliance upon team request.**
 - **Judging Panel:** The judges of the tournament. These judges will determine the winner of individual matches, and decide two of the three awards, as indicated in section 3.3.
-- **League:** The league refers to the entire 2023-2024 competition season
+- **League:** The league refers to the entire 2024-2025 competition season
 - **Power Switch:** Mechanically and directly shuts off power to the entire bot as explained in section 5.8.
 - **Tournament:** A larger competition hosted by the WCRL one weekend per semester.**
 - **BOM:** Bill of materials, a complete list of all component parts on the bot including specifications, number of items, and prices.
@@ -40,13 +40,12 @@ The following rules have been constructed to be as unrestrictive to the design p
 ### Executive Board
 
 - Chairperson: [John Pforte](jpforte1@binghamton.edu)
-- Vice-Chairperson: [Luke Riddoch](lriddoc1@binghamton.edu)
 - League Coordinator: [Ryan Calhoun](rcalhou1@binghamton.edu) 
-- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Edward Nunez](enunez10@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu) | [Walter Schutz](wschutz1@binghamton.edu) 
-- Competition Coordinator: [David Stein](dstein8@binghamton.edu)
+- Build Technicians: [Sam Abramson](sabrams5@binghamton.edu) | [Ben Sharples](bsharpl1@binghamton.edu) | [Walter Schutz](wschutz1@binghamton.edu) | [Melanie Koren](mkoren1@binghamton.edu) | [Erick Palka](epalka@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu) | [Mckenzie Viersma](mviersm1@binghamton.edu)
+- Competition Coordinator: [Rohan Bajwa](rbajwa1@binghamton.edu)
 - Outreach Coordinator: [Haiden Danto-Scanlan](hdantos1@binghamton.edu)
-- Social Media Coordinator: [Mckenzie Viersma](mviersm1@binghamton.edu)
-- First-Year Ambassadors: [Melanie Koren](mkoren1@binghamton.edu) | [Erick Palka](epalka@binghamton.edu) | [Salaj Rijal](srijal@binghamton.edu) | [Timothy Tran](ttran14@binghamton.edu)
+- Social Media Coordinator: [Xinlin Wu](xwu19@binghamton.edu)
+- First-Year Ambassadors: [Jay Akasofu](jakasofu@binghamton.edu) | [Alexander Sosa](asosa@binghamton.edu) | [Xinlin Wu](xwu19@binghamton.edu)
 - Faculty Advisor: [Professor Wenfeng Zhao](wzhao@binghamton.edu)
 
 ### Judging Committee 
@@ -68,19 +67,19 @@ Official bot name, team name, and attachment file names must be school-appropria
 - Team and bot names are subject to Executive Board approval.
 - Teams may compete with multiple bots if the following criteria are met:
   - Each bot satisfies the requirements.
-  - The sum of all robot weights are less than the 1kg weight limit.
+  - The sum of all robot weights are less than the 1 lb weight limit.
 
 ---
 
 ## League Overview
 
-The league refers to the entire 2023-2024 competition seasons. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
+The league refers to the entire 2024-2025 competition seasons. During this time teams will brainstorm designs, prototype their design, build bots, compete, and rebuild bots.
 
 ### Matches
 
-There will five matches a month held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
+There will six qualifying competitions per season, held in the Thomas J. Watson College of Engineering and Applied Sciences Fabrication Lab - Engineering Building E1. Two or more teams will compete against each other at each competition, with the competition being live-streamed.
 
-Dates for matches and tournaments can be found on our public [WCRL Event Calendar](https://calendar.google.com/calendar/u/0?cid=YmluZ2hhbXRvbi5lZHVfZWllNDI5bHBuNGg1MWhzczY3bGxxYWNjc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+Dates for qualifying competitions and tournaments can be found on our public [WCRL Event Calendar](https://calendar.google.com/calendar/u/0?cid=YmluZ2hhbXRvbi5lZHVfZWllNDI5bHBuNGg1MWhzczY3bGxxYWNjc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Matches are 2 minutes long, but may be called early for safety concerns or if a winner is decided based on the below criteria.
 
@@ -95,7 +94,7 @@ Pinning:
 Bot Control:
 
 - Bots who lose mobility will lose the match following the same 5 second countdown (i.e., you are not pinned, but your wheels stop being able to move your bot).
-- Bots are allowed to lose the ability to control their competition attachment after the initial inspection (outlined below) without forfeitting the match.
+- Bots are allowed to lose the ability to control their competition attachment after the initial inspection (outlined below) without forfeiting the match.
 
 ### Tournament
 
@@ -117,19 +116,16 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 ### Mobility
 
-- The bot must move around in a controlled manner without causing intentional damage to the arena.
+- All robots must have easily visible and controlled mobility in order to compete.
+Methods of mobility include but are not limited to:
+  - Rolling (wheels, tracks or the whole robot)
 - No flying, hovering, or otherwise floating bots will be permitted.
   - If a bot is lifted from the floor in the normal course of the match, the bot will not be penalized.
   - Jumping bots are permitted.
 
-### Bot Control
-
-- The driver(s) must maintain control over all of the bot’s functions at any given time.
-- There is **not** an autonomous portion of this competition. This is subject to change in future competitions.
-
 ### Core Specifications
 
-- The maximum weight for any bot is 1,000g (1kg).
+- The maximum weight for any bot is 453 g (1 lb).
 - The maximum height for any bot is determined by the height of the arena.
   - Suggested maximum height is 25 cm.
   - Bots can be weighed on scales made available by the WCRL Executive Board
@@ -147,16 +143,38 @@ There will be three awards presented at the Tournaments, effectively serving as 
 
 - All bots must have at least one independently powered, 3D printed competition attachment that can seriously affect the operation of another bot. (Note: Bots that have an attachment that cannot cause significant damage to another bot will be seen as _not_ having a competition attachment. This includes flippers that move, but cannot move the weight of the bot with enough power to cause damage).
   - A wedge is permissible, as long as it is accompanied by an additional active competition attachment.
+  - Spinning weapons must come to a full stop within 60 seconds of the power
+being removed using a self-contained braking system
   - Competition attachments may be swapped between matches, but may require re-inspection.
   - There is no limit on the number of competition attachments on a particular bot.
   - **The following items are not permitted under any circumstances:**
     - Competition attachments that are in any part enhanced with a non-3D printed material
-    - Fire/heat.
-    - Liquids.
+    - Heat and fire are forbidden as weapons. This includes, but is not limited to the
+following:
+      - Flammable liquids or gases
+      - Explosives or flammable solids such as:
+        - DOT Class C Devices
+        - Gunpowder
+        - Cartridge Primers
+        - Military explosives, etc.
+    - Weapons that require significant cleanup, or in some way damages the arena to
+require repair for further matches. This includes but is not limited to:
+      - Foams and liquified gases
+      - Powders, sand, ball bearings and other dry chaff weapons
     - Projectiles of any type.
-    - Fouling devices such as, but not limited to, glue, nets, fishing line, ball bearings, particulates, etc.
-    - EMP generators or other devices intended to damage or jam the opponent bot’s electronics.
-    - Bright lights, lasers, deliberate smoke generators, etc., that are distracting or dangerous to vision.
+    - Entangling Weapons or defenses: these are weapons or defenses that can
+reasonably be expected to stop drive train and/or weapon motion by being
+wrapped around rotating parts. This includes nets, tapes, strings, and other
+entangling materials or devices.
+    - Weapons designed to cause invisible damage to the other robot. This includes but is not limited to:
+      - Electrical weapons
+      - RF jamming equipment
+      - RF noise generated by an IC engine
+      - EMF fields from permanent/electro-magnets that affect another robot's electronics
+    -  Light and smoke based weapons that impair the viewing of robots by an Entrant, Judge, Official or Viewer. This includes, but is not limited to:
+       -  Smoke weapons
+       -  Lasers
+       -  Bright strobe lights
     - Competition attachments that purposefully detach from the bot and are left on the field.
     - Hydraulics or pneumatics.
 
@@ -175,14 +193,9 @@ If a team is concerned about their bot abiding by these rules, WCRL Executive Bo
   - Teams must return the provided battery prior to utilizing another one.
 - Teams using WCRL provided batteries must have under-voltage protections in place to prevent damaging the batteries. An under-voltage alert buzzer circuit will be available to teams to use in their designs.
 - Bots must have a visible LED that is on whenever the bot is on.
-- Power Switches
-  - There must be a Power Switch on the bot.
-    - The power switch must be located on the exterior of the bot
-      - Power Switch operation must be simple enough to allow anyone present to use it.
-      - Normal Power switch operation cannot require any lifting or tilting of the bot.
-      - Switch operation cannot require that a person get in the path of any competition attachment.
-      - No tools must be required to utilize the Power Switch.
-      - An insertable/removable jumper plug is an approved (and preferred) alternative to other types of Power Switch.
+- Kill Switches
+  - All robots must be able to be FULLY deactivated, which includes power to
+drive and weaponry, in under 60 seconds by a manual disconnect.
 
 ### Remote Control
 
